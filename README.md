@@ -6,7 +6,7 @@
 
 کد زیر را کپی کرده، داخل کنسول پیست کنید و Enter بزنید
 <details>
-<summary>Click to expand</summary>
+<summary>Click to expand
   Click to expand
 delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
@@ -174,7 +174,7 @@ if(quests.length === 0) {
 	}
 	doJob()
 }
-(If you're unable to paste into the console, you might have to type allow pasting and hit enter)
+</summary>
 (اگر اجازه پیست نداد، عبارت allow pasting را تایپ کرده و Enter بزنید)
 
 طبق دستوراتی که در کنسول نمایش داده می‌شود، ادامه دهید (بسته به نوع Quest)
